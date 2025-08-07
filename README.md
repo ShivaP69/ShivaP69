@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shiva
+# Hi, I'm Shiva Parsarad
 
 🎓 I'm currently a **PhD candidate** at the **University of Basel, Switzerland**, working in the intersection of **Machine Learning** and **Security/Privacy**.
 
