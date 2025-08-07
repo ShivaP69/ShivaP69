@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Shiva
 
-<!--
-**ShivaP69/ShivaP69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently a **PhD candidate** at the **University of Basel, Switzerland**, working in the intersection of **Machine Learning** and **Security/Privacy**.
 
-Here are some ideas to get you started:
+## 🔬 Research Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current research primarily focuses on:
+
+- 🧠 **Privacy-preserving Machine Learning**, especially:
+  - Attacks and privacy concerns in **recommender systems**
+  - Membership inference attacks in **medical imaging**
+  - Attacks and privacy concerns in **recommender systems**
+-  Evaluating computational trade-offs in **Differential Privacy** (e.g., DPSGD variants)
+
+## 👩‍🏫 Supervision
+
+I supervise Master's and Bachelor's students on topics related to ML, security, and privacy. Some of the recent projects I’ve supervised include:
+
+- 🔍 *Are Optical Coherence Tomography (OCT) images unique biometric identifiers?*
+- 🤖 *Automated Analysis of Smart Toy Privacy Policies using LLMs*
+- 🧾 *Privacy Policy Analysis with Large Language Models*
+- 💻 *Evaluating new DPSGD variants for computational efficiency*
+
+## 🧠 Skills & Tools
+
+- **Languages**: Python
+- **ML/AI**: PyTorch, TensorFlow
+- **Security/Privacy**: Differential Privacy, Adversarial ML, Inference Attacks
+- **Domains**: Medical Imaging, Recommender Systems, Privacy Policy Analysis, LLMs
+
+
+## 📬 Contact
+
+- ✉️ [Email](mailto:shiva.parsarad@unibas.ch)
+
+Feel free to connect or reach out.
