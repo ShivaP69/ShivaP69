@@ -12,6 +12,7 @@ My current research primarily focuses on:
   - Membership inference attacks in **medical imaging**
   - Attacks and privacy concerns in **recommender systems**
 -  Evaluating computational trade-offs in **Differential Privacy** (e.g., DPSGD variants)
+-  Bias in COVID-19 Models (dataset and codes:https://zenodo.org/records/7997151)
 
 ## Supervision
 
