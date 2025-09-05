@@ -7,7 +7,7 @@
 My current research primarily focuses on:
 
 - **Privacy-preserving Machine Learning**, especially:
-  - DP-Morph: Improving the Privacy-Utility-Performance Trade-off for Differentially Private OCT Segmentation (https://github.com/ShivaP69/DP_Morph)or (https://gitlab.com/dmi-pet-public/parsarad2025dp-morph)
+  - DP-Morph: Improving the Privacy-Utility-Performance Trade-off for Differentially Private OCT Segmentation (https://github.com/ShivaP69/DP_Morph) or (https://gitlab.com/dmi-pet-public/parsarad2025dp-morph)
   - Attacks and privacy concerns in **recommender systems**
   - Membership inference attacks in **medical imaging**
   - Attacks and privacy concerns in **recommender systems**
